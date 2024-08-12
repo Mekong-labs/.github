@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mekong-labs/NodeGuide/main/MEKONG.png" width="50%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/mekong-labs/NodeGuide/main/MEKONG.png" width="30%" height="30%"/>
 </p>
 
 
