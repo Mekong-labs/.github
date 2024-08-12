@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/LavenderFive/.github/assets/9121234/d24298a0-f7b5-42cd-8b86-273232771535" width="50%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/mekong-labs/NodeGuide/main/MEKONG.png" width="50%" height="auto"/>
 </p>
 
 
